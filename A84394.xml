@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The shepherds letters: 1 To his soveraigne lord King Charles his sacred Majesty. 2 To the renowned noble princes, grand-sonnes to great James of famous memory, late west-emperour of the world, Prince Rupert and Prince Maurice. 3 To all the late bishops, doctors, and ministers reputed malignants in the kingdomes of England and Scotland give these.</title>
+            <author>Ellyson, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84394</idno>
+            <idno type="STC">Wing E632</idno>
+            <idno type="STC">Thomason E319_3</idno>
+            <idno type="STC">ESTC R200553</idno>
+            <idno type="EEBO-CITATION">99861270</idno>
+            <idno type="PROQUEST">99861270</idno>
+            <idno type="VID">158999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158999)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E319[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The shepherds letters: 1 To his soveraigne lord King Charles his sacred Majesty. 2 To the renowned noble princes, grand-sonnes to great James of famous memory, late west-emperour of the world, Prince Rupert and Prince Maurice. 3 To all the late bishops, doctors, and ministers reputed malignants in the kingdomes of England and Scotland give these.</title>
+                  <author>Ellyson, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 8: Tho. Ellyson.</note>
+                  <note>Annotation on Thomason copy: "Jan 27 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158999:1" rendition="simple:additions"/>
+            <p>THE SHEPHERDS Letters:
+<list>
+                  <item>1 To his Soveraigne Lord King <hi>Charles</hi> his Sacred Majeſty.</item>
+                  <item>2 To the Renowned Noble Princes, Grand-ſonnes to Great <hi>James</hi> of fa<g ref="char:EOLhyphen"/>mous memory, late Weſt-Empe<g ref="char:EOLhyphen"/>rour of the World, Prince <hi>Rupert</hi> and Prince <hi>Maurice.</hi>
+                  </item>
+                  <item>3 To all the late Biſhops, Doctors, and Miniſters reputed Malignants in the Kingdomes of <hi>England</hi> and <hi>Scotland</hi> give theſe.</item>
+               </list>
+            </p>
+            <p>
+               <hi>London</hi> printed 1646.</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="2" facs="tcp:158999:2"/> The Shepheard of Eaſeingtons Letters.</head>
+         <div type="letter">
+            <opener>
+               <salute>Gracious, Glorious:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Beſeech thy Majeſty ſuffer thine abject Subject to ſpeake unto thy Majeſty without offence; God made thy Father the glory of Chriſten<g ref="char:EOLhyphen"/>dome, and gave him one to ſuceeed according to reaſon, a man hopefull to command Nations as heart could deſire, yet it pleaſed the Almighty to take him home to himſelfe, and left thy Ma<g ref="char:EOLhyphen"/>jeſty to ſupply his place, and haſt eſtabliſhed thee in thy fathers Throne, given thee his Crown, State, and Dignity, with all his Authority, and placed thee in this pleaſant Canaan, whoſe borders is from the North Iſles of <hi>Scotland</hi> and <hi>Jreland,</hi> to the South Iſles of <hi>Barbadoes</hi> and <hi>Barmoodus,</hi> and ſo made thee a great Weſt Emperour of the world, yet for all theſe Dominions I be<g ref="char:EOLhyphen"/>ſeech thy Majeſty remember thou art ſtill but a mortall man, mu<g ref="char:EOLhyphen"/>table and tranſitory, ſubject to alteration and change, and ſhall one day be called to a ſtraight account for all thy Talents received, which is more then yet is mentioned, for he hath given thee Wife and Children, which is moſt neare and deare to man, and bleſſed thee above that great Monarch, that <hi>Daniel</hi> calleth a head of Gold in reſpect of our Iron Age; for when he called his great Aſſembly out of all People, Nation and Languages, they wanted underſtand<g ref="char:EOLhyphen"/>ing to diſcerne and judge aright ſave the three Children; but God hath bleſſed thy Majeſty with men of many Languages in thy Na<g ref="char:EOLhyphen"/>tions, to diſcerne and judge, with ſanctified wills to chuſe the good and refuſe the bad. Now ſeeing God hath bleſſed thy Majeſty ſo abundantly in thy Subjects, and theſe diſtractions in thy King<g ref="char:EOLhyphen"/>doms, and blood-ſhed in divers quarters of thy Countries, I be<g ref="char:EOLhyphen"/>ſeech thy Majeſty under corection, How wilt thou anſwer it be<g ref="char:EOLhyphen"/>fore the eternall Tribunall? For <hi>David</hi> was driven from <hi>Jeruſalem</hi> by <hi>Abſolom,</hi> but thy Majeſty left thine owne Houſe voluntarily, without any inforcement, or colour of cauſe that thy Subjects can tell of, ſave that they tooke two Royall Prerogatives, which fact may be anſwered by the old ſaying; <hi>A man ſeeing his Neighbours houſe on fire, hath faire warning for his owne, &amp;c.</hi> for Hypocrites creeping in<g ref="char:EOLhyphen"/>to
+<pb n="3" facs="tcp:158999:2"/> credit with thy Majeſty, and put in place of high Authority, have greatly diſturbed the State. Then ſeeing theſe perrilous ef<g ref="char:EOLhyphen"/>fects proceed, it is the proper appointed Office of the Parliament to take away ſuch dangerous cauſes, that the effects may ſurceaſe. Moreover, if thy Majeſty ſhall ſay with thy Grand-father <hi>Adam, Yon woman which thou gaveſt me, deceived me, &amp;c.</hi> as that excuſed not him, much leſſe can it profit thee, which hath all former things writ<g ref="char:EOLhyphen"/>ten for our inſtruction, upon whom the ends of the world is come; and that Noble Princely Lady thy loving Wife, being borne and brought up in the Egyptian darkneſſe of Idolatry may be tollera<g ref="char:EOLhyphen"/>rated, but thy Majeſty which was borne in <hi>Sion,</hi> and brought up in <hi>Jeruſalem,</hi> is doubly bound to convert her, and not to be deceived by her, &amp;c. I ſee no more can well be ſaid ſave this: The Prieſts that ſate in <hi>Peters</hi> Chaire being falne from the purity of <hi>Pauls</hi> Do<g ref="char:EOLhyphen"/>ctrine hath deceived thy Majeſty, this I confeſſe, foure hundred falſe Prophets is forceable to perſwade the King contrary to <hi>Micah</hi> his counſell; but moſt Noble Prince, if they were poſſeſt with that dumbe and deafe ſpirit the Apoſtle ſpeaketh of, that would neither ſuffer to heare nor ſpeake the words of their Office and duty, I beſeech thy Majeſty to drive it farre off from thee by hearty Prayer unto God, to give thee the ſpirit of Wiſedome and true underſtanding to Guide and Governe this his mighty people of <hi>Iſrael.</hi> Wherefore I moſt intirely beſeech thy Majeſty, with thoſe Noble Plants of Paradice that is with thee, to take it into your good conſiderations, and for binding up the bleeding wounds in the boſome of Chriſtendome Command a ceſſation of Armes amongſt you and ſignifie it to the Parliament, that the Noble<g ref="char:EOLhyphen"/>men of <hi>Jeruſalem</hi> may ſtrive who ſhall come firſt to guard thee our King <hi>David</hi> home to thine owne Houſe, that the joy of thy happy returne may extinguiſh the griefe of all our ſuſtained ſorrowes; which Grace I beſeech God of his great mercy in his good time grant us, to the good of his Church, and the praiſe of his glorious Name, to whom be all glory and praiſe for ever.</p>
+            <p>Thy Majeſties abject Subject, whoſe prayers paſſeth to God for the preſervation and continuation of thy Crown, State, and Dig<g ref="char:EOLhyphen"/>nity to thee and thine for ever: That he which hath given thee the glory of a Crown; may give thee alſo a Crown of glory.</p>
+            <closer>
+               <signed>The Shepheard of Enſeington Thomas Ellyſon.</signed>
+               <dateline>
+                  <date>Decemb. 25.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:158999:3"/>
+            <opener>
+               <salute>Moſt Noble Princes:</salute>
+            </opener>
+            <p>THe remembrance of that happy Government of theſe King<g ref="char:EOLhyphen"/>doms under your Grand-father forbideth my very Conſci<g ref="char:EOLhyphen"/>ence to keepe backe my counſell when it may doe good to his Poſterity; wherefore I humbly Petition your Princely Perſons patiently to heare me ſpeake without offence, though for the pre<g ref="char:EOLhyphen"/>ſent it be not pleaſant to you, yet afterward it may be profitable for you and yours. I need not be tedious to diſpute the Cauſe, the caſe is ſo plaine that Shepherds, Swineherds, Coblers, and off-ſcourings of the Kingdomes doth and m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y diſcerne, that this great Conflict conſiſts in transferring the Land from Proteſta<g ref="char:EOLhyphen"/>niſme to Papiſme, which if it pleaſe your Princely minds well to remember, what perelous Pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects they have plotted againſt your Predeceſſors and others yee would loath to love or be though in the leaſt fellowſhip with them, as the Powder Treaſon, in which their onely aime was to have blowne the glory of the World, with all his Noble Parliament into the Skies like Chaffe, which vene<g ref="char:EOLhyphen"/>mous invention was ſo very monſterous that Hiſtorians write, the very Heathens hiſſe to heare it. King <hi>John</hi> denying their requeſt, being farre unfitting for a Prince to grant them, was forced to Farme his owne Inheritance for it. And <hi>Henry</hi> the fourth Empe<g ref="char:EOLhyphen"/>rour of that name, for not reſerving the Temple of <hi>Jeruſalem</hi> for the Popes purpoſe, was ſet to fit bare-foot at his Gates without admittance to his preſence till he bought it with a ſumme of mo<g ref="char:EOLhyphen"/>ney, farre more then ſight of him was worth; and after ſhew of Abſolution he ſent a Bull of Excommunication to gore the Empe<g ref="char:EOLhyphen"/>rour through, commanding <hi>Rodolfe</hi> his German Deputy to riſe in Armes and rende away his Crowne, which precept being put in preſent practice, and Juſtice juſtly tooke his life away, the Empe<g ref="char:EOLhyphen"/>rour ſet his eldeſt Sonne to rule the States of Germany in his ſtead. But marke, I beſeech you, to make their matchleſſe malice more appeare, Pope <hi>Hildebrand</hi> ſent his ſecond Bull of Excommunication againe to gore the Emperour, commanding the Sonne in Armes againſt his Father, which Action is ſo repugnant to Order, ſo odious to Reaſon, ſo urgent to Nature, ſo contrary to Cuſtome, nay the very Conſcience and all, I beſeech you to conſider it, &amp;c. But to leave relating their impious Projects in theſe places, their limbes unluckely leapt to our <hi>Engliſh</hi> Stage to act the like Tragedy, which in the Reigne of <hi>Elizabeth</hi> Queen of famous memory, the Earls Rebellion in the North will well witneſſe, and many may
+<pb n="5" facs="tcp:158999:3"/> remember to this day, that being inſatiable they ceaſed not to aſ<g ref="char:EOLhyphen"/>ſault her Succeſſor with the Powder-plot, as is ſaid, &amp;c. But now to keepe their gall of bitterneſſe in continuall action, with all their Fox-like ſubtill Sophiſmes, they have aſſaulted, ſeduced, deceived and drawne away our Soveraigne Lord the King from his royall Throne, and edged him in Armes againſt his Parliaments of both Kingdoms, which I dare ingage both life and ſoule is as truly No<g ref="char:EOLhyphen"/>ble, Learned, loyall and loving Subjects as ever King have had that wore theſe Crownes, ſo that with the Prophet I may truly ſay, <hi>There is a wonderfull and horrible thing committed in the Land, the Prophets have ſpoken falſly, the Priests beare rule thereby, the people pleaſe to have it ſo, but what will be the end thereof, Jeremiah</hi> 5. Wherefore I moſt intirely ſupplicate your Princely minds very ſeriouſly to conſider for what cauſe God hath appointed you to ſpring from the loynes of Prin<g ref="char:EOLhyphen"/>ces, ſurely to have regard to Gods eternall Decree, and to be Fronteers in fighting of his Battailes againſt ſuch Butcher-like, bloody, and tragecall attemptors, and to apply your Princely pow<g ref="char:EOLhyphen"/>ers to deliver our Soveraigne Lord the King from their poluted Papiſt Jaile whether he be holden by force or by perſwaſion. But if they ſay they be good Proteſtants I doe anſwer; If the Tree be good let his fruit declare it, for I finde Divinity-Logicke in a ſhort rule, <hi>He that is not with me is againſt me, &amp;c.</hi> now ſeeing Reli<g ref="char:EOLhyphen"/>gion is of higheſt concernment, I beſeech you remember, <hi>If one man treſpaſſe to another a Judge may determine, but if a man fight againſt God none can releeve him:</hi> Wherefore, howſoever bring our Soveraigne Lord the King to fit upon his Throne, to Governe the many Thouſands of <hi>Iſrael,</hi> to the great joy and comfort of us all, for it is the onely very ordinary meanes for preſervation and continua<g ref="char:EOLhyphen"/>tion of his Crowne, State, and Dignity to him and his for ever, and alſo for his Princely Power, with Potent ſtrength to eſtabliſh Peace in the Palatinate Countries, for the endleſſe good of you and yours, that ſo all our <hi>Iſrael</hi> from <hi>Dan</hi> to <hi>Beerſheba</hi> may ſing Ha<g ref="char:EOLhyphen"/>lelujah to the Lamb of God for ſo great deliverances; which Graces I beſeech God of his great mercies in his good time grant us, to the good of his Church, and the praiſe of his glorious Name, to whom be all glory and praiſe for ever.</p>
+            <p>His Majeſties abject Subject, whoſe prayers paſſeth to God for the preſervation of his ſacred Perſon, with the continuation of his Crowne, State, and Dignity to him and his for ever.</p>
+            <closer>
+               <signed>The Shepherd of Eaſeington. Tho. Ellyſon.</signed>
+               <dateline>
+                  <date>January 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:158999:4"/>
+            <opener>
+               <salute>Right Reverend and well beloved:</salute>
+            </opener>
+            <p>I Doe ſtand up to ſpeake unto you; But I profeſſe and alſo pro<g ref="char:EOLhyphen"/>teſt, I do it not by way of inſultation over your decayed eſtates, for I doe acknowledge my ſelfe ten time triple bound to the good mercies of God for preſerving me to ſtand, when he ſuffereth ma<g ref="char:EOLhyphen"/>ny much better to fall; But I doe it by way of exhortation to your edification and comfort, though I confeſſe many millions of men farre fitter for it then I, yet I will not ſuffer great Clearks onely, and to be ſaved alone, for it is of neceſsity for me to be ſaved alſo: and what the Law ſaith, it ſaith to them that are under the Law, whereof I am one, and doth apply that precept of <hi>Moſes</hi> as ſpoken even unto me, which ſaith, <hi>Thou ſhalt not hate thy Brother in thy heart, but thou ſhalt plainely rebuke thy Neighbour and ſuffer him not to ſin;</hi> which precept the Apoſtles doth itterate double and triple over, willing and requiring us to admoniſh one another, exhort one ano<g ref="char:EOLhyphen"/>ther, edifie one another, &amp;c. which portions of Scripture your ſelves oft times have treated upon, to the great edification and comfort of your hearers: Wherefore I humbly petition your pa<g ref="char:EOLhyphen"/>tience, permit me to ſurrender the ſame comfort to comfort your ſelves, for your neglect is greatly accuſed to becauſe of this gseat confuſion amongſt us, and I do believe it, but that I may not wrong you upon bare report, I deſire to examine your Commiſsion, and compare it with your execution of action for mine own diſcharge. For unto you it is ſaid, Sonne of man I have made thee a Watchman to the Houſe of <hi>Iſrael,</hi> &amp;c. if I ſend a Sword through the Land, and if you give not the people warning, yet they ſhall die in their tranſgreſsions but their blood will I require at thy hand, &amp;c. Here is a fearefull accuſation, what excuſe can you make? for if you ſay, The great Archbiſhops ſate in the ſterne of the Churches to turne it as their wiſdome might direct them &amp;c, It will be replyed, That if they were deprived of wiſdome, it is pitty ye were depri<g ref="char:EOLhyphen"/>ved of grace to reſiſt their folly; for when a free Parliament was called you had both place and voice as well as they, ſo that your beſt friends can frame no excuſe, but that you are ſo grievouſly falne that that admoniiton appointed for that great Church of <hi>Epheſus</hi> may fitly be applyed unto you. Remember therefore from whence ye are fallen and repent.</p>
+            <p>And you inferiour Miniſters, that may ſeeme to ſhelter your ſelves under the ſhadow of great Doctors, even you alſo are inex<g ref="char:EOLhyphen"/>cuſable, for although for orders ſake they did hold priority of
+<pb n="7" facs="tcp:158999:4"/> place, yet your Commiſsion for binding, looſening, demoliſhing, and building is equall to them, ſo that convincing Truth doth teſtifie, that with <hi>Demas</hi> you are falne from <hi>Paul</hi> and followed this preſent World, remember therefore from whence yee are falne, and repent.</p>
+            <p>For my love to the Miniſters of the Goſpell would willingly ſoliſt your cauſe by excuſe if I could finde fit ground for it, but if I ſhould plead your obedience to God from that Precept which appointeth us to Honour the King, I ſhould be anſwered, that as you have applyed that obedience you have diſhonoured both God and the King; you haue diſhonoured God which had given an abſolute order, that to <hi>Aegypt</hi> we ſhould never returne againe, for if we did, he ordered two inreſiſtable Armies to purſue and aſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ult us till we be deſtroyed, for although mercy would willingly pre<g ref="char:EOLhyphen"/>ſerve us, yet very Juſtice muſt juſtly inflict the Sword and Peſti<g ref="char:EOLhyphen"/>lence upon us; which hath greatly enlarged the Grive revived and advanced Death, which is an enemy to Nature for it deſtroyeth the Creature, a great diſhonour to God, a moſt grievous fall; remem<g ref="char:EOLhyphen"/>ber therefore from whence yee are falne and repent. And your honour to the King is according to it, for it hath greatly diſtra<g ref="char:EOLhyphen"/>cted his Government, indangered his ſacred Perſon, demoliſhed the glory of his Kingdomes, which conſiſts in the multiplicity of Subjects, made many a Wife to want her Husband, and many a Wives Sonne hath his blood mingled in the duſt, which no doubt will be required at your hands except yee repent.</p>
+            <p>For if a mans owne tranſgresſions doe often draw him into a dangerous ſtrait, when the blood of many is laid upon him, his condition muſt needs be moſt deſperate; but my deſire is not to drowne you in the deapth of deſparation, but to draw you to repent.</p>
+            <p>For <hi>Abraham</hi> denyed his Wife, <hi>Joſeph</hi> ſwore by the life of <hi>Pharaoh, David</hi> committed two deadly facts, <hi>Paul</hi> perſecuted the Church of God, and <hi>Peter</hi> forſwore that he knew his Maſter, yet by repen<g ref="char:EOLhyphen"/>tance all theſe obtained mercy and is amongſt the moſt glorious Sonnes of God; and ſo may you be if with <hi>Peter</hi> yee will waite up<g ref="char:EOLhyphen"/>on Chriſt till he looke backe upon you with one glimpſe of Grace, which is indeed the very bottomleſſe Ocian of all excellencies; wherefore I beſeech you free your ſelves from all corrupt mix<g ref="char:EOLhyphen"/>tures flowing from humane devices, and receive with meekneſſe that which is able to ſave your ſoules, to wit, repent.</p>
+            <pb n="8" facs="tcp:158999:5"/>
+            <p>And if one ſparke doe kindle to your comfort, I beſeech you certifie our ſoveraigne Lord the King what dangerous waies you have walked, and informe his Majeſty that to goe forward there is no hope, for the Prophet ſaith, <hi>That the true feare of the Lord is to depart from evill.</hi> Wherefore perſwade his Majeſty to uſe all poſsible meanes ſpeedily to returne to his owne <hi>Jeruſalem,</hi> to governe his people prudently with all his Power, to the great thankſ-giving of us all, &amp;c. I beſeech you doe not ſlight my Petition which doth ſo neerly concerne your ſelves, for as I am bold without bluſh<g ref="char:EOLhyphen"/>ing to ſpeake in the faces of men, I have alſo a good Conſcience in the preſence of God, whoſe Judgements you cannot eſcape. Wherefore I beſeech you, let the remembrance of our mortality by Sword and Peſtilence ſo mortifie your corrupt affections, as to make a true recollection of the time that is paſt, and apply a true Chriſtian reſurrection for the time to come. Henceforth put on ſuch an habit of holineſſe as may practice true Piety hereafter, to the praiſe and glory of God, the proſperity of our Soveraigne Lord the King and his Poſterity, the common good of all his Kingdomes, and our eternall Thankſ-giving through Jeſus Chriſt, to whom with the Father, and the Holy Ghoſt one God, be all honour and praiſe for ever. <hi>Amen.</hi>
+            </p>
+            <p>His Majeſties abject Subject, whoſe Prayers paſſeth to God for the preſervation of his ſacred Perſon, with the continuation of his Crowne, State, and Dignity to him and his for ever.</p>
+            <closer>
+               <signed>
+                  <hi>The Shepherd of Eaſeington.</hi> Tho. Ellyſon.</signed>
+               <dateline>
+                  <date>January the 10th. 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
